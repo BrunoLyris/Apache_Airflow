@@ -2,7 +2,7 @@
 Neste diretório encontram-se os scripts/DAGs de transformação/controle de dados por mim desenvolvidos em plataforma apache-airflow.
 
 # Contents
->> - [X] #### **Pipeline_RH**
+>> - [X] **Pipeline_RH**
     <p>Resumo: Extração de dados OLTP(Mysql), transformação, carga em um OLAP(Postgres) e limpeza do diretório de stage.</p>
 
 >> - [X] **Pipeline_json_to_csv**
