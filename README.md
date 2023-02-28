@@ -3,7 +3,7 @@ Neste diretório encontram-se os scripts/DAGs de transformação/controle de dad
 
 # Contents
 >> - Pipeline_RH 
-    Resumo: Extração de dados OLTP(Mysql), transformação, carga em um OLAP(Postgres) e limpeza do diretório de stage.
+    <p>Resumo: Extração de dados OLTP(Mysql), transformação, carga em um OLAP(Postgres) e limpeza do diretório de stage.</p>
 
 >> - Pipeline_json_to_csv 
     Resumo: Checagem de carga de um diretorio, tranformação dos arquivos json, carga em um único arquivo CSV e limpeza das stages.
